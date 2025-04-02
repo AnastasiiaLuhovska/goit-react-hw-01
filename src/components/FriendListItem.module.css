@@ -1,7 +1,21 @@
+
+
 .online{
     color: green;
 }
 
 .offline{
     color: red;
+}
+
+.friends-list{
+    display: flex;
+    gap: 20px;
+}
+
+.friend{
+    width: 80px;
+    border: 1px solid black;
+    border-radius: 4px;
+    padding: 10px;
 }
